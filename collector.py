@@ -157,6 +157,7 @@ def collect() -> list:
             print(f"[warn] {name}: {e}", file=sys.stderr)
     old.sort(key=lambda i: i["ts"], reverse=True)
     old = old[:MAX_ITEMS]
+    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     DATA_FILE.write_text(json.dumps(old, ensure_ascii=False, indent=0))
     print(f"collected: +{added} new, total {len(old)}")
     return old
@@ -167,6 +168,7 @@ def build_site(items: list):
     updated = datetime.now(JST).strftime("%Y-%m-%d %H:%M")
     tpl = (BASE / "template.html").read_text()
     out = tpl.replace("__DATA__", data_json).replace("__UPDATED__", updated)
+    SITE_FILE.parent.mkdir(parents=True, exist_ok=True)
     SITE_FILE.write_text(out)
     print(f"site built: {SITE_FILE} ({len(items)} items)")
 
