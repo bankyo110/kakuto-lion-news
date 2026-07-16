@@ -72,6 +72,19 @@ def strip_html(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+EXCERPT_MAX = 90  # 「引用」の範囲に収めるため要約は短く抑える（法務リスク低減）
+
+
+def trim_excerpt(s: str) -> str:
+    if not s:
+        return s
+    # 句点があれば最初の一文だけを使う（本文の実質的な再現を避ける）
+    m = re.search(r"[。！？]", s[:EXCERPT_MAX + 20])
+    if m and m.end() <= EXCERPT_MAX + 20:
+        return s[:m.end()]
+    return s[:EXCERPT_MAX].rstrip() + ("…" if len(s) > EXCERPT_MAX else "")
+
+
 def classify(title: str, desc: str) -> str:
     t = title + " " + desc[:100]
     if any(k in title for k in BREAKING_KW):
@@ -120,7 +133,7 @@ def parse_feed(name: str, raw: bytes, genre: str) -> list:
             dt = datetime.now(timezone.utc)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
-        desc = strip_html(text_of(it, "description") or text_of(it, f"{ns_atom}summary"))[:200]
+        desc = trim_excerpt(strip_html(text_of(it, "description") or text_of(it, f"{ns_atom}summary")))
         title_clean = re.sub(r"\s*[-–|]\s*" + re.escape(src) + r"\s*$", "", strip_html(title))
         cats = " ".join(c.text or "" for c in it.findall("category"))
         haystack = f"{title_clean} {desc} {cats}"
