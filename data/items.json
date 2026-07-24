@@ -1,12 +1,62 @@
 [
 {
-"id": "e3f31b131962",
+"id": "8d5555f37968",
+"title": "スポーツ合宿で紋別市が活況 28団体700人が冷涼気候活用 陸上やバレー、ボクシング",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zaldRMU1Vd0wyMG82NEpZVUNfc2NDelVmdkFTczZnR1hkMExlWS1MU24tZVlOeUkyTDZjQndYMktFaUVmalJPSXgtLVdVd2NrYlFNRWkxSnFXc0FWLXFLMFlyaHk?oc=5",
+"source": "北海道新聞デジタル",
+"genre": "boxing",
+"cat": "news",
+"desc": "スポーツ合宿で紋別市が活況 28団体700人が冷涼気候活用 陸上やバレー、ボクシング 北海道新聞デジタル",
+"ts": "2026-07-24T15:12:09+09:00"
+},
+{
+"id": "a9c5530536aa",
+"title": "【RIZIN】8・11「54」で秋元強真とクレベルが激突、ABEMA視聴チケット販売開始（日刊スポーツ）",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tN29iS3FibVNHTDVoNThFXzVIUzFUbXNLRU5Ub1B0NDh5aTlWc0NGQzBES1RidFFXeEhNdnBad1FpX19vZTdLbTNmQm9tbGFONkNVLUh1eWxuQWhIenBjWTNMUDgxcUJIX2hpNDlORVVqMndUb3Ftbk41LUU5Qkk?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "mma",
+"cat": "info",
+"desc": "【RIZIN】8・11「54」で秋元強真とクレベルが激突、ABEMA視聴チケット販売開始（日刊スポーツ） Yahoo!ニュース",
+"ts": "2026-07-24T14:53:13+09:00"
+},
+{
+"id": "a343344a6f4e",
+"title": "【新極真会】出場者の最多エントリー数でギネス世界記録を達成、4,057名を記録",
+"link": "https://gonkaku.jp/articles/24399",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "result",
+"desc": "公益社団法人 全日本フルコンタクト空手道連盟（JFKO）に加盟するNPO法人 全世界空手道連盟 新極真会は、2026年7月18日（土）・19日（日）東京・国立代々木競技場第一体育館…",
+"ts": "2026-07-24T13:58:39+09:00"
+},
+{
+"id": "2d680d47d449",
+"title": "【新極真会】賞金総額3,000万円の1DAYトーナメントで日本勢がベスト8で全滅の大波乱、男子優勝は2025全日本王者キンザースキー、女子は無敵の女王・鈴木未紘が2連覇",
+"link": "https://gonkaku.jp/articles/24398",
+"source": "ゴング格闘技",
+"genre": "general",
+"cat": "info",
+"desc": "第2回空手Champion of Champions 2026年7月19日(日)東京・国立代々木競技場第二体育館 KCCは2024年7月に第1回大会を開催。",
+"ts": "2026-07-24T13:37:23+09:00"
+},
+{
+"id": "5df25d4c892e",
 "title": "Official Weigh-In Results | UFC Abu Dhabi",
 "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0pLczB4ZjJzcFZNZWZqa2c0VHJ4MFJGQlJoaTJPVzIzM0Zpal96Q0cxbWhRb2xudHR0VUs5NG5EQTI1VVcwQ2xpS0VBZExNREZiM1lQOS1Ia3o2b252aWk4MHNkUEs5aDNoa3RnTTlySTNMZWtUNnVBUDRZRzNsQ19R?oc=5",
 "source": "UFC.com",
 "genre": "mma",
 "cat": "news",
 "desc": "Official Weigh-In Results | UFC Abu Dhabi UFC.com",
+"ts": "2026-07-24T12:45:33+09:00"
+},
+{
+"id": "8329f3a93a5e",
+"title": "UFCファイトナイト・アブダビ：公式計量結果",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0pLczB4ZjJzcFZNZWZqa2c0VHJ4MFJGQlJoaTJPVzIzM0Zpal96Q0cxbWhRb2xudHR0VUs5NG5EQTI1VVcwQ2xpS0VBZExNREZiM1lQOS1Ia3o2b252aWk4MHNkUEs5aDNoa3RnTTlySTNMZWtUNnVBUDRZRzNsQ19R?oc=5",
+"source": "UFC.com",
+"genre": "mma",
+"cat": "info",
+"desc": "UFCファイトナイト・アブダビ：公式計量結果 UFC.com",
 "ts": "2026-07-24T12:45:33+09:00"
 },
 {
@@ -28,6 +78,16 @@
 "cat": "news",
 "desc": "『RIZIN.54』をABEMAで全試合生中継 クレベル・コイケvs.秋元強真ら注目カードが集結（ENCOUNT） Yahoo!ニュース",
 "ts": "2026-07-24T12:28:55+09:00"
+},
+{
+"id": "b7d0156ceb1d",
+"title": "8・11『RIZIN.54』ABEMA PPV販売開始 クレベルvs秋元強真、佐藤将光vsミックスなど注目大会",
+"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PSWh3Y3NjZ3h3Q0lqOWgyamZsVTE4VW5HMmQ5WUttdGpXVExuMnprMkpmbVJkbDlWOFBLN29KVnVhRXFySlZoV2xjUkY1cFpRMzdub1p3?oc=5",
+"source": "オリコンニュース",
+"genre": "mma",
+"cat": "news",
+"desc": "8・11『RIZIN.54』ABEMA PPV販売開始 クレベルvs秋元強真、佐藤将光vsミックスなど注目大会 オリコンニュース",
+"ts": "2026-07-24T12:21:00+09:00"
 },
 {
 "id": "7155818e53c5",
@@ -78,6 +138,16 @@
 "cat": "info",
 "desc": "2026年7月24日(金)タイ・ルンピニースタジアム『ONE Friday Fights 163＆The Inner Circle 23』（ U-NEXT配信 ）の前日計量が、23…",
 "ts": "2026-07-24T12:03:05+09:00"
+},
+{
+"id": "7651f9c20345",
+"title": "「僕らの頃は…」渡嘉敷勝男氏＆竹原慎二氏が感じる現代日本ボクシングの大きな変化「レベルが違いすぎる」 | THE DIGEST",
+"link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xbzhCV3VINE5sX0x0amtHRE44STYwR0lHbWtnREhqZ290Wm9rbG1LTTVBR0VhTl9zYWEybFpldE9xbFNYS2JGMU9Nb1FCOC1QWkJJc1Brb1F6QnZnRDRj0gFvQVVfeXFMT0ZLSW1lNm5fejY3VXk3Qjh4VGlRRVdzR3pkT3lCZXRBZ20xWFBhNnB4TWVMRVZzek1yRkVLdnNJVVUzQmRhM1ZnYUJsMkoyY1kyaGhsLUV4ZWhmTU1RVTU3dkMxOVl0S1NXbVhTS2dn?oc=5",
+"source": "THE DIGEST",
+"genre": "boxing",
+"cat": "news",
+"desc": "「僕らの頃は…」渡嘉敷勝男氏＆竹原慎二氏が感じる現代日本ボクシングの大きな変化「レベルが違いすぎる」 | THE DIGEST THE DIGEST",
+"ts": "2026-07-24T12:00:00+09:00"
 },
 {
 "id": "88a1c3d6ea9c",
@@ -148,6 +218,16 @@
 "cat": "news",
 "desc": "23日、東京・後楽園ホールで行われた『PRIDE for FIGHT』のメインイベント、ライト級８回戦は、一道宏（T&T）が日本スーパーフェザー級15位にランクされるニューサンダー…",
 "ts": "2026-07-24T09:41:00+09:00"
+},
+{
+"id": "38ac43de673c",
+"title": "【ヤフコメで話題】「天心vs拓真リマッチに賛否」「再戦の意義と両者の姿勢に注目」 - ボクシング再戦カードを巡る議論",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4UXFCZGQ1Mmc1WHpOdk9FTUF1SFJSSGxqb3RlUEFLV0w2aThESjIyTEx4SkhzQlB1dEFwQVZ4eUxSWkRnTkczUmk2MzBCWlo1ZlplY1BFbW1wQ0kxdjVTcnh0elNQRHpOSzQ2LTViQ2twQ1ZoajdKa0Z4R25ubEk?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "boxing",
+"cat": "news",
+"desc": "【ヤフコメで話題】「天心vs拓真リマッチに賛否」「再戦の意義と両者の姿勢に注目」 - ボクシング再戦カードを巡る議論 Yahoo!ニュース",
+"ts": "2026-07-24T09:33:26+09:00"
 },
 {
 "id": "5476d3b4ec05",
@@ -570,6 +650,16 @@
 "ts": "2026-07-23T20:54:53+09:00"
 },
 {
+"id": "350c1e8e2151",
+"title": "那須川天心、王者の井上拓真の無難なコメントや会見の進行にブチ切れ「プロ意識が足りねえな」（サンケイスポーツ）",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YbU9RNTYyMWJHY2pzNk9Qa3h0aG5jUmxqLUZyOFk2V2VZY0VNdUROVFBfM1RVZko3aF84a19JR1NzaUZvdi0zSVpST1RaeXVDYnlMLUNQbnhnTFNJYUszVUtxODBsd3lpOVljdnpUcy0wY0hUMHJjNjRucGtLeTQ?oc=5",
+"source": "Yahoo!ニュース",
+"genre": "boxing",
+"cat": "info",
+"desc": "那須川天心、王者の井上拓真の無難なコメントや会見の進行にブチ切れ「プロ意識が足りねえな」（サンケイスポーツ） Yahoo!ニュース",
+"ts": "2026-07-23T20:42:02+09:00"
+},
+{
 "id": "02f18578f06d",
 "title": "【ボクシング】那須川天心、王者の井上拓真の無難なコメントや会見の進行にブチ切れ「プロ意識が足りねえな」",
 "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3oxaUNJODhvNFlWRlFrY1ZfaVQ3U3dpajlsdGhaZnI4NHhPdWYtcG92UVhtRkM1WjVxN1ZrQ3NpdGNkUndWMjE4T3drWmJmTWYzR2pQV1JJZi1sMFZZOHVCY2RoNGdaR2FtXzF1eWFQMnhrVE5Lcm1ucnRJMW02THhac1oxMXkxeVlJOVBZM2w0QUJT0gGKAUFVX3lxTFBQOVBmcFlXRVl1ZUItN2NsbW8xQkVzN1MzUjB5Ymh1a3ZYNllxNzN5Y1QxNk5yNlNBV29VMkxlXzR2RkE3OXh2ellCSk54SzRhQkwydEJMSXhSbm9TcV9IYzEyLTFhbEh3aDBzcDMxUkZ0TU9QRVZXQVhsM1FOa2hRZmpzcl92ZS1Jdw?oc=5",
@@ -757,16 +847,6 @@
 "genre": "boxing",
 "cat": "news",
 "desc": "井上尚弥が弟・拓真の成長を絶賛、那須川天心との再戦に期待を寄せる (2026年7月23日掲載) ライブドアニュース",
-"ts": "2026-07-23T18:14:19+09:00"
-},
-{
-"id": "ada296c9360e",
-"title": "井上尚弥「拓真の成長は物凄い」 那須川天心と再戦する弟に期待、自信身につけ「変態で恐ろしい」",
-"link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05XzVocW5pVDJDcUZacEpKMEl1a0FSNmRjdjV3eW55cmR5d0tpc1hRbzQ0b0xRS3ZjanRvMEVnSGtKS3Q2b3c?oc=5",
-"source": "the-ans.jp",
-"genre": "boxing",
-"cat": "news",
-"desc": "井上尚弥「拓真の成長は物凄い」 那須川天心と再戦する弟に期待、自信身につけ「変態で恐ろしい」 the-ans.jp",
 "ts": "2026-07-23T18:14:19+09:00"
 },
 {
@@ -1380,13 +1460,33 @@
 "ts": "2026-07-23T10:00:00+09:00"
 },
 {
-"id": "cc9474743761",
+"id": "3353afe73fe2",
 "title": "オリコンニュース：［RIZIN］広報・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催",
 "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mZXNmTDdIU1lEVHA0ZWk2WjBPdXMwRG9ZZmNLbU1DbFhYTkp3aGVDVzdlNDNqQzdLeXpDeFJPTzk0NnFMUGlqbXQ2ODAyRU1Oc1lOZmhzRE1kNG1vYXlFRnY0SWpnakhI?oc=5",
 "source": "毎日新聞",
 "genre": "mma",
 "cat": "info",
 "desc": "オリコンニュース：［RIZIN］広報・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催 毎日新聞",
+"ts": "2026-07-23T10:00:00+09:00"
+},
+{
+"id": "3c58b87d62bf",
+"title": "【RIZIN】候補・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU2RPRE9TTkwwTjJsdzN0eDFuNmZ2dk5sbkZSZUtXcURxM2JQS19CTFo3N09UZnRVMzZObmFNeWt1cVFWUVBnUHR0VW4xeWhDcGxSdlI5N010STg1TDIzcXp2eUoyTHlYeDJ2clJ1OGp4dWU1N3lMYVRNZHl5UW5mLdIBhgFBVV95cUxOQXFwaDkzTWg2dGU3YWttWV83eHhReTVfTDBWeXdwTnNHU3hlNTFKenhycWhYajZNWTVFeFlUMnlOOXNkc240OUZIMS1XMmgwQVJBd09QZUtJUF9hRV9yclRzQ2M3QVlQNXhFWUJGVFh5Ynh2ZWlFNXcySFFPR3owZnJINU5tZw?oc=5",
+"source": "ｄメニューニュース",
+"genre": "mma",
+"cat": "info",
+"desc": "【RIZIN】候補・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催 ｄメニューニュース",
+"ts": "2026-07-23T10:00:00+09:00"
+},
+{
+"id": "9cdeb761dc7d",
+"title": "【RIZIN】広報・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催",
+"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYck1aWUNzTElrUHBqTmNPOVFtLTAycU5jTy0xR0JpU2JRdFJpN29Cbnd3d1p6TU5UMU9PMXRkbHZoOE1NemE3X1hySkRQLTZoQldZYkln?oc=5",
+"source": "佐賀新聞",
+"genre": "mma",
+"cat": "info",
+"desc": "【RIZIN】広報・横島加奈、1日限りのアイドル復活 「Chu-Z」847日ぶりライブ開催 佐賀新聞",
 "ts": "2026-07-23T10:00:00+09:00"
 },
 {
@@ -7898,105 +7998,5 @@
 "cat": "news",
 "desc": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第11試合／カルシャガ・ダウトベック vs. 萩原京平 RIZIN",
 "ts": "2026-07-19T02:15:00+09:00"
-},
-{
-"id": "02fcb9e4ec29",
-"title": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第10試合／太田忍 vs. イリスベク・ティレノフ",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NZmh6MzExMUhjOHBkUHVtNWpWU0Q0cGJkaUVMaUt5WDRkbjNIV3hMMGlmSVVqanZwN0xVNFdlU2JkTnlEU2J4Z1p0bw?oc=5",
-"source": "RIZIN",
-"genre": "mma",
-"cat": "news",
-"desc": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第10試合／太田忍 vs. イリスベク・ティレノフ RIZIN",
-"ts": "2026-07-19T01:51:51+09:00"
-},
-{
-"id": "d132251c6938",
-"title": "【UFN281】父親に勝った2人にリベンジ!! シュガー・ショーの同門トミー・マクミレン「気持ちだ」",
-"link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9VN25zbGN6T2o3WjlMOU5GcGdNMVhmYkpmNVZsamJxN1NGSlgzOVdkYnk4ZlFUNzJYYW5xQXBRZkY?oc=5",
-"source": "MMAPLANET",
-"genre": "mma",
-"cat": "news",
-"desc": "【UFN281】父親に勝った2人にリベンジ!! シュガー・ショーの同門トミー・マクミレン「気持ちだ」 MMAPLANET",
-"ts": "2026-07-19T01:17:15+09:00"
-},
-{
-"id": "03a0629a5f0f",
-"title": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第3試合／佐々木信治 vs. 林RICE陽太",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iU3g1M2R5ZEpUcU0wUjVseVFFc0haTjZWcjVnRUNpeDNmMTl6RXNPMUpXTG5rRU9EalFiOW54dElTVUptNVdHQ0JKUQ?oc=5",
-"source": "RIZIN",
-"genre": "mma",
-"cat": "news",
-"desc": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第3試合／佐々木信治 vs. 林RICE陽太 RIZIN",
-"ts": "2026-07-19T00:48:37+09:00"
-},
-{
-"id": "e746e47b089f",
-"title": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第2試合／火の鳥 vs. イ・ジェフン",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaTkFuZEloQ0dhUFgyZFRENnpRZXdGcHFWOTg3WTR0di1qRldwcmtWRm0yYTVRWUlGWkxSRTlGdTNjUG5oLVA3NWFpVQ?oc=5",
-"source": "RIZIN",
-"genre": "mma",
-"cat": "news",
-"desc": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第2試合／火の鳥 vs. イ・ジェフン RIZIN",
-"ts": "2026-07-19T00:47:24+09:00"
-},
-{
-"id": "ab8ae4de8b39",
-"title": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第4試合／鈴木博昭 vs. 宮川日向",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5COHlDaEhIdWYwVllEaXE3RUxKUUg5RmpXNF9KSzBNRXFabHZ2eFl0TzJwS3RieVZzTzJ0OXBkZll1cG5JLUlHYVNZaw?oc=5",
-"source": "RIZIN",
-"genre": "mma",
-"cat": "news",
-"desc": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第4試合／鈴木博昭 vs. 宮川日向 RIZIN",
-"ts": "2026-07-19T00:43:37+09:00"
-},
-{
-"id": "943b51f467a6",
-"title": "【RIZIN】平本蓮vs.ダウトベックは「口説くというか、やらせます」7・20『超RIZIN.5』の会見は「ビビッてたじろぐようなカードをズバッと皆さんにお届けしたい」（榊原CEO）",
-"link": "https://gonkaku.jp/articles/24363",
-"source": "ゴング格闘技",
-"genre": "general",
-"cat": "rumor",
-"desc": "2026年7月18日（土）広島グリーンアリーナにて 『RIZIN LANDMARK 15 in HIROSHIMA』 が開催された。",
-"ts": "2026-07-19T00:27:54+09:00"
-},
-{
-"id": "72afe127a69d",
-"title": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第8試合／ジョニー・ケース vs. 天弥",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iSTN5M2M4YjRNQWljS3IwQ3YxdmxrazFsT3hZLVFaSHNGbW84dG44S2g3NGVacF9YbVVPaGFndjZkNk1jNXZCNThjaw?oc=5",
-"source": "RIZIN",
-"genre": "mma",
-"cat": "news",
-"desc": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第8試合／ジョニー・ケース vs. 天弥 RIZIN",
-"ts": "2026-07-19T00:08:37+09:00"
-},
-{
-"id": "2928134e828e",
-"title": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第7試合／大島沙保里 vs. イ・イェジ",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00MGI1Q3lzODhMRkVoQURZeFBuOG11RzlzN19XUExXNGRONTUwMDhmMjBFZHp6MS1DLTBRM3VWS1ZhWUkwVktybm9PQQ?oc=5",
-"source": "RIZIN",
-"genre": "mma",
-"cat": "news",
-"desc": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第7試合／大島沙保里 vs. イ・イェジ RIZIN",
-"ts": "2026-07-19T00:08:37+09:00"
-},
-{
-"id": "0a73cae386b4",
-"title": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第9試合／ヒロヤ vs. 山本アーセン",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wczI0MGY5eTZEQlZ3UEpfMVY3UFVVR19MU2xiTE9pN2JKZUFzWlhKWDg4aHZGT2lvX2pwMWhUakFYeGEtODBPM3o3QQ?oc=5",
-"source": "RIZIN",
-"genre": "mma",
-"cat": "news",
-"desc": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第9試合／ヒロヤ vs. 山本アーセン RIZIN",
-"ts": "2026-07-19T00:08:37+09:00"
-},
-{
-"id": "0f54dd7c8114",
-"title": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第5試合／昇侍 vs. 梅野源治",
-"link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Kb0NVZUlFbDNpQUV6THo3RllHVkY4UWdkbFRqUW5pZHNOeEdtbldHXzNVU2VfczZ5VlF0Vkp2WkpjTDlyNGRPTW1odw?oc=5",
-"source": "RIZIN",
-"genre": "mma",
-"cat": "news",
-"desc": "【試合結果】abc presents RIZIN LANDMARK 15 in HIROSHIMA 第5試合／昇侍 vs. 梅野源治 RIZIN",
-"ts": "2026-07-19T00:08:37+09:00"
 }
 ]
